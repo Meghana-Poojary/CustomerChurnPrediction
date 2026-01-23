@@ -5,7 +5,7 @@ from sklearn.preprocessing import StandardScaler, OneHotEncoder
 import pandas as pd
 import pickle
 
-model = tf.keras.models.load_model('model.h5', compile=False)
+model = tf.keras.models.load_model('model.h5')
 
 with open('scaler.pkl', 'rb') as f:
     scaler = pickle.load(f)
