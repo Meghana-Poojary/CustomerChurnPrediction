@@ -50,6 +50,6 @@ Streamlit
 * Users can interactively enter customer details and instantly get predictions.
 
 ### This streamlit app is live:
-https://customer-churn-prediction-meg.streamlit.app/
+https://customerchurnprediction-dff46v32mywpjbqgynayyt.streamlit.app/
 
 #### **Please don't forget to star this repo if you liked it!**
