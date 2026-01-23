@@ -1,6 +1,6 @@
-streamlit>=1.28
-numpy>=1.23,<2.0
-pandas>=1.5
-scikit-learn>=1.2
-tensorflow>=2.12,<2.16
-protobuf<5
+streamlit
+numpy
+pandas
+scikit-learn
+tensorflow
+protobuf
